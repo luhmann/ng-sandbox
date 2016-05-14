@@ -1,0 +1,25 @@
+{
+  "name": "ng-sandbox",
+  "version": "0.0.1",
+  "description": "Setup for a barebone angular app to test out little things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luhmann/ng-sandbox.git"
+  },
+  "keywords": [],
+  "author": "Jan Florian Dietrich <jfd@daenen4.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luhmann/ng-sandbox/issues"
+  },
+  "homepage": "https://github.com/luhmann/ng-sandbox#readme",
+  "devDependencies": {
+    "angular": "^1.5.5",
+    "lite-server": "^2.2.0"
+  }
+}
